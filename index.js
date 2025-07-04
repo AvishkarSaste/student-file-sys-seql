@@ -14,7 +14,6 @@ Host: sql12.freesqldatabase.com
 Database name: sql12788277
 Database user: sql12788277
 Database password: 8dUZk8Dybr
-Port number: 3306
 });
 
 //set up multer for the file uploads 
